@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NicolasFecko
+- 👀 I’m interested in Web Development,App development,C++
+- 🌱 I’m currently learning Web & App Development
+- 💞️ I’m looking to collaborate on Web and App Development
+- 📫 How to reach me gmail - nfecko9@gmail.com

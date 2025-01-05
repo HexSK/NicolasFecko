@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @NicolasFecko
-- 👀 I’m interested in Web Development,App development,C++
-- 🌱 I’m currently learning Web & App Development
-- 💞️ I’m looking to collaborate on Web and App Development
-- 📫 How to reach me gmail - nfecko9@gmail.com
+Hello, I am a high school student of SPŠE Prešov in Slovakia.
+I study Networks, Cybersecurity and development of all sorts like Web Development, Mobile app development and more. 
+In my learning journey I came accross all sorts of stuff. 
+I do and create anything that interests me.
+
+I am currently interested in Cybersecurity and AI.

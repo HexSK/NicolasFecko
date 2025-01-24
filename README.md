@@ -3,4 +3,4 @@ I study Networks, Cybersecurity and development of all sorts like Web Developmen
 In my learning journey I came accross all sorts of stuff. 
 I do and create anything that interests me.
 
-I am currently interested in Cybersecurity and AI.
+I am currently making a robot for RoboCup 2025
